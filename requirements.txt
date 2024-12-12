@@ -1,0 +1,10 @@
+cloudinary==1.41.0
+Flask==3.1.0
+Flask_Cors==5.0.0
+imageio==2.36.0
+moviepy==1.0.3
+numpy==2.2.0
+opencv_contrib_python==4.10.0.84
+opencv_python==4.10.0.84
+pandas==2.2.3
+Requests==2.32.3
